@@ -1,0 +1,7 @@
+name: auto_job
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+prefix: C:\Users\Utilisateur\anaconda3\envs\auto_job

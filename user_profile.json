@@ -1,0 +1,14 @@
+{
+    "name": "Fred Ghezelbash",
+    "date_of_birth": "1991-01-01",
+    "email": "Meow@gmail.com",
+    "country_of_residence": "Canada",
+    "address": "321 Wilderton",
+    "city": "Toronto",
+    "phone": "4389923099",
+    "job_keywords": ["Mechanical engineer"],
+    "CV_file_name": "Farshid_Ghezelbash - CV-ME2.pdf",
+    "legal_work_status": "requires NO visa, No sponsorship",
+    "description": "a mechanical engineer specializing in computational mechanics, biomechanics, and data-driven design. led R&D projects in ergonomic wearables and spine biomechanics, holds a patent, and has published 28 papers. Skilled in FEA, machine learning, design, and various modeling tools, he excels at transforming research into real-world applications and mass manufacturing.",
+    "openai_api_key": "ADD YOUR KEY .........."
+  }
